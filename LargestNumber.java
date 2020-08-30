@@ -2,7 +2,7 @@
 /**
  * Write a description of class LargestNum here.
  * Program to print the maximum number out of 3 input numbers
- * @author (Arvi)
+ * @author (Aarvi)
  * @version (a version number or a date)
  */
    
