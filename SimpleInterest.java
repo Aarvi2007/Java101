@@ -2,7 +2,7 @@
 /**
  * Write a description of class SI here.
  * Program to calculate Simple Interest
- * @author (Arvi)
+ * @author (Aarvi)
  * @version (a version number or a date)
  * 
  */
